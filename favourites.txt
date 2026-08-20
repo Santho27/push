@@ -1,4 +1,10 @@
+favourite Food
 biriyani
 lemon rice
 vegetable pulav
+
+favourite movies
+House of dragon
+the balan
+nooru sami
 
